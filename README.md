@@ -1,20 +1,7 @@
 #### Idea
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+[Login Yaparken Sıkıntımı Yasadın?](https://accordion-unicorn-ecf0d1.netlify.app/)
 
-![](./idea.png);
+![](./idea.png)
 
-#### React Icons
 
-[react icons](https://react-icons.github.io/react-icons/)
-
-```
-npm install react-icons --save
-```
-
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
